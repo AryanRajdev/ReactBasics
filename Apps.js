@@ -1,8 +1,11 @@
-{/* <div id = "parent">
-    <div id = "child">
-        <h1>I am h1 tag</h1>
-    </div>
-</div> */}
+// {/* <div id = "parent">
+//     <div id = "child">
+//         <h1>I am h1 tag</h1>
+//     </div>
+// </div> */}
+
+import React from "react";
+import  ReactDOM  from "react-dom";
 
 
 const parent = React.createElement("div",
